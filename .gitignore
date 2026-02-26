@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Python / FastAPI logs
+*.log
+*.env
+
+# Torch / large model files
+*.pt
+*.binvenv/
+venv/
